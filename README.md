@@ -10,7 +10,7 @@
 # Currently
 
 
-## 🔭 I’m currently working on an E-Commerce, using SCRUM as agile methodology, and ReactJS, Redux, Express, MongoDB.
+### 🔭 I’m currently working on an E-Commerce, using SCRUM as agile methodology, and ReactJS, Redux, Express, MongoDB.
 
 
 
@@ -21,27 +21,48 @@
 I worked in a FullStack Poke Api, using PostgreSQL, Express, React and Redux.
 You can see the Pokemons, order and filter, and create new ones.
 
-Repository
-[https://github.com/Matias2484/PI-Pokemon-FT14b](url)
+
+
+[PokeApi](https://github.com/Matias2484/PI-Pokemon-FT14b)
 
 
 
 ### Movies Work
 
+I worked in a Movies Api, using React-Redux. You can search movies, add to favorites, and see all the details of them.
+
+
+[Movies](https://github.com/Matias2484/Movies-app)
+
+
+### Weather
+
+I did a Weather App, using React. You can search any city in the world, and look its weather.
+
+[Weather](https://github.com/Matias2484/React-Weather)
 
 
 
-<!--
-**Matias2484/Matias2484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+- 📫 How to reach me:
+
+[Linkedin](https://www.linkedin.com/in/matias-sundblad-166776b9/)
+
+
+
+Mail: matiassundblad45@hotmail.com
+
+
+
+
+
+
+
+
